@@ -7,7 +7,7 @@ The Maze Solver is a Python program that uses Pygame to generate and solve mazes
 * Animation: The program uses Pygame to animate the maze generation and pathfinding process.
 
 ## Preview
-![Maze Solver Demo](https://github.com/Milosz-cat/Maze-Solver/blob/main/Preview/maze_animation.gif)
+![Maze Solver Demo](https://github.com/Milosz-cat/Maze-Solver/blob/main/Preview/maze_animation_1.gif)
 
 ### Prerequisites
 
